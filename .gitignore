@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+embedding_cache/
+documents/
+*.pdf
